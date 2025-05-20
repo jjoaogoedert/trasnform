@@ -8,3 +8,12 @@ Deve conter uma interface padrão que é básica e muito pratica de ser utilizav
 Código tem um estrutura muito, com uma boa escalabilidade e implementação
 
 Quando precisar ser feito alguma atualização ou nova implemtentação estará de grande forma para ser feito
+
+Arquivos que são suportados hoje:
+CSV
+PNG
+JPG
+XSLS
+JSON
+
+No futuro desejo adicionar ainda mais arquivo para fazer a conversão vai sistema
